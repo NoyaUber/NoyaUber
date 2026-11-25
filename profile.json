@@ -27,7 +27,7 @@
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Indonesia"
       },
       {
         "icon": "code",
@@ -141,7 +141,7 @@
       {
         "icon": "book_2",
         "label": "All repositories",
-        "url": "",
+        "url": "https://github.com/NoyaUber",
         "style": "tonal"
       }
     ]
