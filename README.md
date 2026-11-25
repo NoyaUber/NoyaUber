@@ -1,48 +1,25 @@
+<div align="center">
 
-<h1 align="center">Hi, I'm Atha 👋</h1>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Noya"></picture>
 
-<p align="center">
-  <i>Student | Developer | Writer</i>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/noyauber"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/liara26"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/darradeh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-<p align="center">
-  Building projects, learning new technologies,
-  and exploring the world of programming.
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-### 🧠 About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-- 🎓 Student interested in Informatics
-- 💻 Learning Web Development
-- ⚙️ Interested in AI and Software Engineering
-- 📚 Enjoy reading and writing novels
-- 🚀 Currently building personal projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-### 🛠️ Tech Stack
+<a href="https://github.com/NoyaUber/Fantasystyles-portofolio-Haris-Atha-Hibatullah"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fantasystyles-portofolio-haris-atha-hibatullah-dark.svg"><img src="assets/project-fantasystyles-portofolio-haris-atha-hibatullah-light.svg" width="49%" alt="Fantasystyles-portofolio-Haris-Atha-Hibatullah"></picture></a>&nbsp;<a href="https://github.com/NoyaUber/Anime_Battle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-anime-battle-dark.svg"><img src="assets/project-anime-battle-light.svg" width="49%" alt="Anime_Battle"></picture></a>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,linux,vscode" />
-</p>
+<a href="https://github.com/NoyaUber/Esclipsia"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-esclipsia-dark.svg"><img src="assets/project-esclipsia-light.svg" width="49%" alt="Esclipsia"></picture></a>&nbsp;<a href="https://github.com/NoyaUber/Nomen-AI-Tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nomen-ai-tools-dark.svg"><img src="assets/project-nomen-ai-tools-light.svg" width="49%" alt="Nomen-AI-Tools"></picture></a>
 
-### 📊 GitHub Statistics
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoyaUber&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoyaUber&theme=tokyonight" width="49%" />
-</p>
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/NoyaUber?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-### 🌐 Connect With Me
+<a href="https://metawka.github.io/expressive-profile/?from=NoyaUber"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-<p align="left">
-  <a href="https://github.com/NoyaUber">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep improving.</i>
-</p>
+</div>
