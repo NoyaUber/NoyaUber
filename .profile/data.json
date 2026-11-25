@@ -1,0 +1,223 @@
+{
+ "key": "9bcd94f9",
+ "stars": 2,
+ "contributions": 69,
+ "repos": 7,
+ "followers": 3,
+ "languages": [
+  [
+   "TypeScript",
+   1295490
+  ],
+  [
+   "JavaScript",
+   359026
+  ],
+  [
+   "CSS",
+   51695
+  ],
+  [
+   "HTML",
+   25879
+  ],
+  [
+   "PLpgSQL",
+   25308
+  ],
+  [
+   "Python",
+   13254
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 24,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "Anime_Battle",
+   "url": "https://github.com/NoyaUber/Anime_Battle",
+   "text": "nyambung karton",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Fantasystyles-portofolio-Haris-Atha-Hibatullah",
+   "url": "https://github.com/NoyaUber/Fantasystyles-portofolio-Haris-Atha-Hibatullah",
+   "text": "Tugas",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Fantasystyles-portofolio-Haris-Atha-Hibatullah",
+   "url": "https://github.com/NoyaUber/Fantasystyles-portofolio-Haris-Atha-Hibatullah",
+   "text": "Tugas",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Anime_Battle",
+   "url": "https://github.com/NoyaUber/Anime_Battle",
+   "text": "nyambung karton",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Esclipsia",
+   "url": "https://github.com/NoyaUber/Esclipsia",
+   "text": "Game",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "NoyaUber",
+   "url": "https://github.com/NoyaUber/NoyaUber",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Nomen-AI-Tools",
+   "url": "https://github.com/NoyaUber/Nomen-AI-Tools",
+   "text": "Tools Author",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Bypass-Bulok",
+   "url": "https://github.com/NoyaUber/Bypass-Bulok",
+   "text": "Gitu malas",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Time-Bank",
+   "url": "https://github.com/NoyaUber/Time-Bank",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
