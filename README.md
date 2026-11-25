@@ -16,7 +16,7 @@
 
 <a href="https://github.com/NoyaUber/Anime_Battle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-anime-battle-dark.svg"><img src="assets/project-anime-battle-light.svg" width="49%" alt="Anime_Battle"></picture></a>&nbsp;<a href="https://github.com/NoyaUber/Fantasystyles-portofolio-Haris-Atha-Hibatullah"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fantasystyles-portofolio-haris-atha-hibatullah-dark.svg"><img src="assets/project-fantasystyles-portofolio-haris-atha-hibatullah-light.svg" width="49%" alt="Fantasystyles-portofolio-Haris-Atha-Hibatullah"></picture></a>
 
-<a href="https://atha.yanoya.my.id"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/NoyaUber"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+<a href="https://atha.yanoya.my.id"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/NoyaUber?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
 <a href="https://metawka.github.io/expressive-profile/?from=NoyaUber"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
