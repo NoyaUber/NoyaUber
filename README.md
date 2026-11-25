@@ -12,9 +12,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-<a href="https://github.com/NoyaUber/Fantasystyles-portofolio-Haris-Atha-Hibatullah"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fantasystyles-portofolio-haris-atha-hibatullah-dark.svg"><img src="assets/project-fantasystyles-portofolio-haris-atha-hibatullah-light.svg" width="49%" alt="Fantasystyles-portofolio-Haris-Atha-Hibatullah"></picture></a>&nbsp;<a href="https://github.com/NoyaUber/Anime_Battle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-anime-battle-dark.svg"><img src="assets/project-anime-battle-light.svg" width="49%" alt="Anime_Battle"></picture></a>
-
-<a href="https://github.com/NoyaUber/Esclipsia"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-esclipsia-dark.svg"><img src="assets/project-esclipsia-light.svg" width="49%" alt="Esclipsia"></picture></a>&nbsp;<a href="https://github.com/NoyaUber/Nomen-AI-Tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nomen-ai-tools-dark.svg"><img src="assets/project-nomen-ai-tools-light.svg" width="49%" alt="Nomen-AI-Tools"></picture></a>
+<a href="https://github.com/NoyaUber/Anime_Battle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-anime-battle-dark.svg"><img src="assets/project-anime-battle-light.svg" width="49%" alt="Anime_Battle"></picture></a>&nbsp;<a href="https://github.com/NoyaUber/Fantasystyles-portofolio-Haris-Atha-Hibatullah"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fantasystyles-portofolio-haris-atha-hibatullah-dark.svg"><img src="assets/project-fantasystyles-portofolio-haris-atha-hibatullah-light.svg" width="49%" alt="Fantasystyles-portofolio-Haris-Atha-Hibatullah"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
