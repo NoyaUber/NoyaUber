@@ -8,22 +8,22 @@
   "iconFill": true,
   "order": [
     "hero",
-    "socials",
     "about",
+    "socials",
     "stack",
-    "stats",
     "streak",
-    "projects",
+    "stats",
     "wave",
+    "projects",
     "buttons"
   ],
   "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "Noya",
-    "subtitle": "I build interfaces and small useful tools.",
+    "name": "Atha",
+    "subtitle": "I build Fantasy Game and Write Novel. ",
     "typing": true,
-    "avatarShape": "cookie12",
+    "avatarShape": "pill",
     "chips": [
       {
         "icon": "location_on",
@@ -31,7 +31,11 @@
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "TypeScript · Html "
+      },
+      {
+        "icon": "star",
+        "label": "New"
       }
     ]
   },
@@ -44,11 +48,11 @@
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Game Developer "
       },
       {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "icon": "psychology",
+        "label": "Philosophy enthusiast "
       }
     ]
   },
@@ -69,6 +73,14 @@
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "Html"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "Javascript "
           }
         ]
       },
@@ -82,6 +94,10 @@
           {
             "icon": "thermostat_carbon",
             "label": "Hermes"
+          },
+          {
+            "icon": "brand:supabase",
+            "label": "Supabase"
           }
         ]
       }
@@ -123,7 +139,15 @@
       },
       {
         "icon": "brand:x",
-        "url": "https://x.com/darradeh"
+        "url": "https://x.com/Derrare4l"
+      },
+      {
+        "icon": "brand:whatsapp",
+        "url": "https://wa.me/qr/HVHVSWNTEWGXB1"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://tiktok/norck_2"
       }
     ],
     "variant": "chip",
